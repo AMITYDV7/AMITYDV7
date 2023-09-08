@@ -15,9 +15,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/amit_yadav377?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  
   <a href="https://twitter.com/Amit26674839?t=BcIfkIg2t8nkzWFierTEOQ&s=09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
